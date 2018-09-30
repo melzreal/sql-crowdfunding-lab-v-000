@@ -1,7 +1,7 @@
 INSERT INTO users (id, name, age) VALUES (1, 'Finn', 17), (2, 'Cheeseball', 6), (3, 'Freddy', 4), (4, 'Kiwi', 33),
-(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
+(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rose', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
 (11, 'Fudgeboi', 90), (12, 'Hooch', 24), (13, 'Pompon', 4), (14, 'Jojo', 36), (15, 'Albus', 113), (16, 'Squid', 5),
-(17, 'Beans', 6), (18, 'Pants', 5), (12, 'Ena', 24), (20, 'Cookie', 24);
+(17, 'Beans', 6), (18, 'Pants', 5), (19, 'Ena', 24), (20, 'Cookie', 24);
 
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
 (1, 'Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30'),
